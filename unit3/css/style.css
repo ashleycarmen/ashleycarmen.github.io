@@ -1,0 +1,30 @@
+html {
+	color: #000
+	background-color: #fff
+}
+
+body {
+	font-family: "Helvetica", monospace;
+	text-align: center; 
+}
+
+h1 {
+	font-size: 64px;
+	text-transform: uppercase;
+	font-weight: normal;
+
+}
+
+p {
+	font-size: 18px;
+	font-weight: normal;
+}
+
+#slogan {
+	font-style: italic; 
+	}
+
+ul {
+	font-size: 18px;
+	list-style-position: inside;
+}
