@@ -12,7 +12,7 @@ h1 {
 	font-size: 64px;
 	text-transform: uppercase;
 	font-weight: normal;
-	font-family: "Rock Salt", cursive;
+	font-family: "Rock Salt", monospace, cursive;
 
 }
 
