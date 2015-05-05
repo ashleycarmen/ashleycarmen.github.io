@@ -1,0 +1,77 @@
+html {
+	color: #000 ;
+	background-color: #fff
+}
+
+nav {
+	font-family: "Helvetica", monospace;
+	float: right;
+	text-transform: uppercase;
+}
+
+nav a {
+	text-decoration: none;
+	color: #000000
+}
+
+a:hover {
+	color: #ff0000
+}
+
+h1 {
+	text-transform: uppercase;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 64px
+}
+
+h2 {
+	text-transform: uppercase;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 50px
+}
+
+.box {
+	float: left;
+	width: 400px;
+	height: 400px
+	margin: 40px;
+	padding: 40px
+}
+
+.box2 {
+	float: left;
+	width: 250px
+	height:200px;
+	margin: 40px
+	padding: 40px;
+}
+
+p {
+	font-family: "Helvetica", monospace;
+	font-size: 18px 
+	line-height: 1.0;
+}
+
+img {
+	padding: 3em
+}
+
+.spacing {
+	line-height: 200%;
+}
+
+li {
+	font-family: "Helvetica", monospace;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 200%
+}
+
+h3 {
+	text-transform: uppercase;
+	text-align: center;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 50px
+}
+
+
